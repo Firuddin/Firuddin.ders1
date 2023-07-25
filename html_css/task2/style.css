@@ -1,0 +1,23 @@
+h1.pageTitle {
+    background-color: black;
+    color: white;
+    text-align: center;
+    pad: 15px 0;
+    height: 100px;
+}
+
+.card {
+    width: 218px;
+    height: 30px;
+    border: 2px solid;
+    border-radius: 2px;
+    float: left;
+    color: blue;
+    background-color: yellow;
+
+}
+
+img {
+    width: 1250px;
+    height: 500px;
+}
